@@ -1,0 +1,14 @@
+{
+  "name": "pamelding",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node_modules/react-native/packager/packager.sh"
+  },
+  "dependencies": {
+    "moment": "^2.10.6",
+    "react-native": "^0.12.0",
+    "react-native-grid-view": "^0.3.7",
+    "react-native-vector-icons": "^0.8.2"
+  }
+}
